@@ -1,0 +1,9 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid rgb(213, 7, 7);
+    border-left: 20px solid rgb(7, 213, 117);
+    border-right: 20px solid rgb(65, 7, 213);
+  }
+
+/* Provide a way to make CSS classes locally scoped to components by default, enabling better modularity and reducing the risk of styling conflicts. */
